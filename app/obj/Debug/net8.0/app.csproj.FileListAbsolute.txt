@@ -1,0 +1,15 @@
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\app\bin\Debug\net8.0\app.exe
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\app\bin\Debug\net8.0\app.deps.json
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\app\bin\Debug\net8.0\app.runtimeconfig.json
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\app\bin\Debug\net8.0\app.dll
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\app\bin\Debug\net8.0\app.pdb
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\app\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\app\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\app\obj\Debug\net8.0\app.AssemblyInfo.cs
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\app\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\app\obj\Debug\net8.0\app.sourcelink.json
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\app\obj\Debug\net8.0\app.dll
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\app\obj\Debug\net8.0\refint\app.dll
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\app\obj\Debug\net8.0\app.pdb
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\app\obj\Debug\net8.0\app.genruntimeconfig.cache
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\app\obj\Debug\net8.0\ref\app.dll
