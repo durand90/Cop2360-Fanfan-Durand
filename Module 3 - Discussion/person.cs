@@ -45,6 +45,7 @@ public class Program
         Student newStudent = new Student();
         student.Name = "John";
         student.Age = "25";
+        student.height = "6.0"
         student.NumberOfClasses = 4;
 
         // Call methods from both the base and derived class
@@ -53,6 +54,6 @@ public class Program
         student.FullTimeStudent();   // Inherited method from Person class
 
         // Output basic car details
-        Console.WriteLine("Name: {student.Name}, Age: {student.age}, classes: {stdent.FullTimeStudent}");
+        Console.WriteLine("Name: {student.Name}, Age: {student.age}, Height: {student.height}, Number of Classes: {stdent.FullTimeStudent}");
     }
 }
