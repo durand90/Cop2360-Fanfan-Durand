@@ -1,5 +1,5 @@
 
-// Base class: Peson
+// Base class: Person
 public class Person
 {
     public string Name { get; set; }
@@ -7,14 +7,14 @@ public class Person
 
     public string Height {get: set}
 
-    public void StartWalking()
+    public void Walking()
     {
-        Console.WriteLine("Peson start walking");
+        Console.WriteLine("This Peson is walking");
     }
 
     public void StopWalking()
     {
-        Console.WriteLine("Person stopped");
+        Console.WriteLine("This Person has stopped");
     }
 }
 
@@ -29,10 +29,10 @@ public class Student : Person
         Console.WriteLine("This is a full time student");
     }
 
-    // Method overriding the base class StartWalking method
-    public new void StartWalking()
+    // Method overriding the base class Walking method
+    public new void Walking()
     {
-        Console.WriteLine("Person is running");
+        Console.WriteLine("This Person is walking really fast");
     }
 }
 
@@ -41,17 +41,18 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        // Create an instance of the Car class
+        // Create an instance of the student class
         Student newStudent = new Student();
         student.Name = "John";
         student.Age = "25";
         student.NumberOfClasses = 4;
 
         // Call methods from both the base and derived class
-        myCar.StartEngine(); // Overridden method in Student class
-        myCar.Honk();        // Student-specific method
-        myCar.StopEngine();   // Inherited method from Person class
+        student.walking(); // Overridden method in Student class
+        student.StopWalking();        // Student-specific method
+        student.FullTimeStudent();   // Inherited method from Person class
 
         // Output basic car details
-        Console.WriteLine("Make: {myCar.Make}, Model: {myCar.Model}, Doors: {myCar.NumberOfDoors}");
+        Console.WriteLine("Name: {student.Name}, Age: {student.age}, classes: {stdent.FullTimeStudent}");
     }
+}
