@@ -1,0 +1,5 @@
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 4\obj\Debug\net8.0\Module 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 4\obj\Debug\net8.0\Module 4.AssemblyInfoInputs.cache
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 4\obj\Debug\net8.0\Module 4.AssemblyInfo.cs
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 4\obj\Debug\net8.0\Module 4.csproj.CoreCompileInputs.cache
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 4\obj\Debug\net8.0\Module 4.sourcelink.json
