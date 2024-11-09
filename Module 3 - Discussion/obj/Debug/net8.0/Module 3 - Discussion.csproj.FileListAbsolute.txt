@@ -1,0 +1,5 @@
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 3 - Discussion\obj\Debug\net8.0\Module 3 - Discussion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 3 - Discussion\obj\Debug\net8.0\Module 3 - Discussion.AssemblyInfoInputs.cache
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 3 - Discussion\obj\Debug\net8.0\Module 3 - Discussion.AssemblyInfo.cs
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 3 - Discussion\obj\Debug\net8.0\Module 3 - Discussion.csproj.CoreCompileInputs.cache
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 3 - Discussion\obj\Debug\net8.0\Module 3 - Discussion.sourcelink.json

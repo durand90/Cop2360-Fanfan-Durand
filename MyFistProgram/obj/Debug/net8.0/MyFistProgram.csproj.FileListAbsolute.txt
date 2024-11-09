@@ -1,0 +1,15 @@
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\MyFistProgram\bin\Debug\net8.0\MyFistProgram.exe
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\MyFistProgram\bin\Debug\net8.0\MyFistProgram.deps.json
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\MyFistProgram\bin\Debug\net8.0\MyFistProgram.runtimeconfig.json
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\MyFistProgram\bin\Debug\net8.0\MyFistProgram.dll
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\MyFistProgram\bin\Debug\net8.0\MyFistProgram.pdb
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\MyFistProgram\obj\Debug\net8.0\MyFistProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\MyFistProgram\obj\Debug\net8.0\MyFistProgram.AssemblyInfoInputs.cache
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\MyFistProgram\obj\Debug\net8.0\MyFistProgram.AssemblyInfo.cs
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\MyFistProgram\obj\Debug\net8.0\MyFistProgram.csproj.CoreCompileInputs.cache
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\MyFistProgram\obj\Debug\net8.0\MyFistProgram.sourcelink.json
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\MyFistProgram\obj\Debug\net8.0\MyFistProgram.dll
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\MyFistProgram\obj\Debug\net8.0\refint\MyFistProgram.dll
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\MyFistProgram\obj\Debug\net8.0\MyFistProgram.pdb
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\MyFistProgram\obj\Debug\net8.0\MyFistProgram.genruntimeconfig.cache
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\MyFistProgram\obj\Debug\net8.0\ref\MyFistProgram.dll
