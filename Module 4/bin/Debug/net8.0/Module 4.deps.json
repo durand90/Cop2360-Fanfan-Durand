@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "MyFistProgram/1.0.0": {
+      "Module 4/1.0.0": {
         "runtime": {
-          "MyFistProgram.dll": {}
+          "Module 4.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "MyFistProgram/1.0.0": {
+    "Module 4/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

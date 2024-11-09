@@ -3,3 +3,13 @@ C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 4\obj\Debug\net8.0\
 C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 4\obj\Debug\net8.0\Module 4.AssemblyInfo.cs
 C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 4\obj\Debug\net8.0\Module 4.csproj.CoreCompileInputs.cache
 C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 4\obj\Debug\net8.0\Module 4.sourcelink.json
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 4\bin\Debug\net8.0\Module 4.exe
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 4\bin\Debug\net8.0\Module 4.deps.json
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 4\bin\Debug\net8.0\Module 4.runtimeconfig.json
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 4\bin\Debug\net8.0\Module 4.dll
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 4\bin\Debug\net8.0\Module 4.pdb
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 4\obj\Debug\net8.0\Module 4.dll
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 4\obj\Debug\net8.0\refint\Module 4.dll
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 4\obj\Debug\net8.0\Module 4.pdb
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 4\obj\Debug\net8.0\Module 4.genruntimeconfig.cache
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Module 4\obj\Debug\net8.0\ref\Module 4.dll
