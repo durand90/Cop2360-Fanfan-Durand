@@ -214,8 +214,3 @@ Console.WriteLine("This is awesome");
 // }
 
 
-
-//
-// int[] myArray = { 1, 2, 3 };
-// foreach (int val in myArray)
-//     Console.WriteLine (val);
