@@ -15,3 +15,5 @@ Console.WriteLine("Hello, World!");
 
 // print ("Marshmellow")
 // print();
+
+// Conole.WriteLine ($$"""{ "TimeStamp": "{{DateTime.Now}}" }""");

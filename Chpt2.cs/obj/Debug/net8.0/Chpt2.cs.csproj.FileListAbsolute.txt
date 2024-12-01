@@ -1,0 +1,15 @@
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Chpt2.cs\bin\Debug\net8.0\Chpt2.cs.exe
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Chpt2.cs\bin\Debug\net8.0\Chpt2.cs.deps.json
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Chpt2.cs\bin\Debug\net8.0\Chpt2.cs.runtimeconfig.json
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Chpt2.cs\bin\Debug\net8.0\Chpt2.cs.dll
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Chpt2.cs\bin\Debug\net8.0\Chpt2.cs.pdb
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Chpt2.cs\obj\Debug\net8.0\Chpt2.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Chpt2.cs\obj\Debug\net8.0\Chpt2.cs.AssemblyInfoInputs.cache
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Chpt2.cs\obj\Debug\net8.0\Chpt2.cs.AssemblyInfo.cs
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Chpt2.cs\obj\Debug\net8.0\Chpt2.cs.csproj.CoreCompileInputs.cache
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Chpt2.cs\obj\Debug\net8.0\Chpt2.cs.sourcelink.json
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Chpt2.cs\obj\Debug\net8.0\Chpt2.cs.dll
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Chpt2.cs\obj\Debug\net8.0\refint\Chpt2.cs.dll
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Chpt2.cs\obj\Debug\net8.0\Chpt2.cs.pdb
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Chpt2.cs\obj\Debug\net8.0\Chpt2.cs.genruntimeconfig.cache
+C:\Users\duran\OneDrive\Desktop\Cop2360-Fanfan Durand\Chpt2.cs\obj\Debug\net8.0\ref\Chpt2.cs.dll
